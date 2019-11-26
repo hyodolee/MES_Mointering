@@ -1,0 +1,10 @@
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\bin\Debug\mentor_20191026_01.exe.config
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\bin\Debug\mentor_20191026_01.exe
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\bin\Debug\mentor_20191026_01.pdb
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\bin\Debug\log4net.dll
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\bin\Debug\log4net.xml
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\obj\Debug\mentor_20191026_01.csprojAssemblyReference.cache
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\obj\Debug\mentor_20191026_01.csproj.CoreCompileInputs.cache
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\obj\Debug\mentor_20191026_01.csproj.CopyComplete
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\obj\Debug\mentor_20191026_01.exe
+C:\hd\mentor\mentor_20191026_01\mentor_20191026_01\obj\Debug\mentor_20191026_01.pdb

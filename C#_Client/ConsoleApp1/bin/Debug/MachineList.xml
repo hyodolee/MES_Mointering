@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfMachine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Machine>
+    <ProcessCount>0</ProcessCount>
+    <LastEventName>Create</LastEventName>
+    <LastEventTime>2019-11-16T13:09:51.474946+09:00</LastEventTime>
+    <MachineName>HD1</MachineName>
+  </Machine>
+  <Machine>
+    <ProcessCount>0</ProcessCount>
+    <LastEventName>Create</LastEventName>
+    <LastEventTime>2019-11-16T13:09:56.256122+09:00</LastEventTime>
+    <MachineName>HD2</MachineName>
+  </Machine>
+</ArrayOfMachine>
